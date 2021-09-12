@@ -7,5 +7,5 @@ AutoNop
 
 # 关于 ida sdk 获取
 
-1. 直接 在我这个项目中下载
+1. 直接 在我这个项目中下载  https://github.com/m1n9yu3/AutoNop/raw/master/IDASDK75.rar
 2. 看雪论坛找一下
