@@ -1,11 +1,17 @@
-# µÚÒ»¸ö ida ²å¼ş
+# ç¬¬ä¸€ä¸ª ida æ’ä»¶
 
 AutoNop
 
-> ×Ô¶¯½«view-a ÊÓÍ¼ÖĞÑ¡ÖĞµÄ×Ö½Úpatch ³É 0x90 , ¼´ nop , ÆäÊµÓ¦¸Ã½Ğ ¿ìËÙnop µÄ£¬µ±Ê±Ã»ÏëÕâÃ´¶à¡£
+> è‡ªåŠ¨å°†view-a è§†å›¾ä¸­é€‰ä¸­çš„å­—èŠ‚patch æˆ 0x90 , å³ nop , å…¶å®åº”è¯¥å« å¿«é€Ÿnop çš„ï¼Œå½“æ—¶æ²¡æƒ³è¿™ä¹ˆå¤šã€‚
 
+# è·å– binary
 
-# ¹ØÓÚ ida sdk »ñÈ¡
+https://github.com/m1n9yu3/AutoNop/releases/download/v1.0/autonop.dll
 
-1. Ö±½Ó ÔÚÎÒÕâ¸öÏîÄ¿ÖĞÏÂÔØ  https://github.com/m1n9yu3/AutoNop/raw/master/IDASDK75.rar
-2. ¿´Ñ©ÂÛÌ³ÕÒÒ»ÏÂ
+æ”¾åœ¨  ida/plugins/     
+ç›®å½•ä¸‹
+
+# å…³äº ida sdk è·å–
+
+1. ç›´æ¥ åœ¨æˆ‘è¿™ä¸ªé¡¹ç›®ä¸­ä¸‹è½½  https://github.com/m1n9yu3/AutoNop/raw/master/IDASDK75.rar
+2. çœ‹é›ªè®ºå›æ‰¾ä¸€ä¸‹
