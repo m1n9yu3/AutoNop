@@ -4,6 +4,8 @@ AutoNop
 
 > 自动将view-a 视图中选中的字节patch 成 0x90 , 即 nop , 其实应该叫 快速nop 的，当时没想这么多。
 
+快捷键:  shift + p
+
 # 获取 binary
 
 https://github.com/m1n9yu3/AutoNop/releases/download/v1.0/autonop.dll
