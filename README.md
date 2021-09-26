@@ -28,4 +28,5 @@ https://github.com/m1n9yu3/AutoNop/releases/download/v1.0/autonop.dll
 4. 链接器 -> 附加库目录 -> sdk/lib/x64_win_vc_xx     如果你要编译 ida64 使用的 插件 xx 就是 64,  反之就是 32
 5. 链接器 -> 输入 -> 附加依赖项    添加 ida.lib
 
-注意要使用 x64 平台
+注意要使用 x64 平台， 
+更详细的可以参考: https://m1n9yu3.github.io/2021/09/26/vs2019%E5%BC%80%E5%8F%91ida7-5%E6%8F%92%E4%BB%B6%E7%8E%AF%E5%A2%83%E6%90%AD%E5%BB%BA/
