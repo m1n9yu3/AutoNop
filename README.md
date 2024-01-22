@@ -15,7 +15,7 @@ https://github.com/m1n9yu3/AutoNop/releases/download/v1.0/autonop.dll
 
 # 关于 ida sdk 获取
 
-1. 直接 在我这个项目中下载  https://github.com/m1n9yu3/AutoNop/raw/master/IDASDK75.rar
+1. 直接 在我这个项目中下载  https://github.com/m1n9yu3/AutoNop/raw/master/IDASDK75.rar 密码:pediy.com
 2. 看雪论坛找一下
 
 # 关于 ida 环境搭建
